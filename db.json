@@ -1,4 +1,5 @@
-[
+{
+  "tickets": [
   {
     "id": 1,
     "artist": "Juanes",
@@ -27,3 +28,4 @@
     "image": "https://example.com/bukis.jpg"
   }
 ]
+}
