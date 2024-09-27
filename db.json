@@ -1,5 +1,6 @@
 [
-  {
+  "tickets" : [
+    {
     "id": 1,
     "artist": "Juanes",
     "date": "2024-10-01",
@@ -26,4 +27,5 @@
     "price": 600,
     "image": "https://example.com/bukis.jpg"
   }
+  ]
 ]
