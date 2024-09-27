@@ -26,6 +26,42 @@
     "hour": "19:30",
     "price": 600,
     "image": "https://example.com/bukis.jpg"
+  },
+  {
+    "id": 4,
+    "artist": "Café Tacvba",
+    "date": "2024-09-30",
+    "venue": "Auditorio Nacional",
+    "hour": "20:00",
+    "price": 450,
+    "image": "https://example.com/cafetacvba.jpg"
+  },
+  {
+    "id": 5,
+    "artist": "Maluma",
+    "date": "2024-11-20",
+    "venue": "Foro Sol",
+    "hour": "22:00",
+    "price": 650,
+    "image": "https://example.com/maluma.jpg"
+  },
+  {
+    "id": 6,
+    "artist": "Natalia Lafourcade",
+    "date": "2024-12-05",
+    "venue": "Teatro Metropólitan",
+    "hour": "19:00",
+    "price": 400,
+    "image": "https://example.com/natalialafourcade.jpg"
+  },
+  {
+    "id": 7,
+    "artist": "Banda MS",
+    "date": "2024-10-10",
+    "venue": "Estadio Caliente",
+    "hour": "21:30",
+    "price": 550,
+    "image": "https://example.com/bandams.jpg"
   }
 ]
 }
